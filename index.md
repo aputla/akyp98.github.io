@@ -1,3 +1,5 @@
+This is a sample text to demonstrate nothing.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aputla/akyp98.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
